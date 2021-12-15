@@ -1,0 +1,9 @@
+{
+    "bsc_testnet": {
+        "PCSRouter": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+        "WBNB": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "BUSD": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+        "BUSDBNBPair": "0x85EcDcdd01EbE0BfD0Aba74B81Ca6d7F4A53582b"
+    },
+    "bsc_mainnet": {}
+}
